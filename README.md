@@ -1,5 +1,5 @@
-# layout-master
-
+# Layout-Master
+This a simple project that help you get started with smart layouting/router level system for Vuejs. This repo is created and maintained for education purpose
 ## Project setup
 ```
 npm install
